@@ -1,0 +1,105 @@
+#menu
+all data is taken from tesco.com
+
+Aim of this code is to give you an average price for your shopping list!
+
+
+LIST  - Views shopping list
+ADD   - Adds item to shopping list
+BIN   - Remove item from shopping list
+CLEAR - Clear shopping list
+EXIT  - Exits the program
+
+
+
+-- NEW COMMAND!  --
+
+AVG - Tells you the average shopping price for a grocerie shop! includes milk, bread, eggs ect.
+
+-- SHOPPING LIST --
+
+Type The Item Or Command You Would Like To ADD: "bread"
+
+bread - avg price £1.12
+
+command: "ADD"
+
+
+#list prices 
+
+AVG - £21.00
+
+apple - £1.70
+avocado - £1.20
+apple juice - £3.00
+asparagus - £2.00
+almond milk - £1.60
+bananas - £0.70
+bread - £1.12
+beans - £0.85
+butter - £3.10
+biscuit - £1.00
+blueberries - £2.23
+fruit - £2.10
+fish  - £4.10
+chicken - £4.50
+yoghurt - £1.96
+vegetables - £2.20
+carrot - £1.57
+cheese - £4.00
+crisps - £1.50
+eggs - £1.80
+noodles - £1.44
+pizza - £3.50
+potatoes - £1.50
+pasta - £2.15
+olive oil - £6.00
+salad - £2.75
+grapes - £1.20
+milk - £1.20
+juice - £2.90
+tomatoes - £1.00
+nuts - £3.50
+diary - £2.40
+water - £3.00
+chocolate bar - £1.00
+tea bags - £3.50
+
+#list 
+
+
+item1 - PRICE
+item2 - PRICE
+item3 - PRICE
+item4 - PRICE
+item5 - PRICE
+
+TOTAL - £67.23
+
+
+
+#menu2
+
+-- QUICK SHOP --
+
+DONE  - Finish shopping list + gives price! 
+ADD   - Add another item
+CLEAR - Clears shopping list
+LIST  - Views the list
+EXIT  - Exits the program
+
+NEW!
+
+USE CODE "ITEM23" as a command to get £2.50 off your shop! *THIS WILL FINISH YOUR SHOP*
+
+-
+
+Command: ADD 
+
+Enter Item : Bread
+
+Enter Price: 1.12
+
+Added to shopping list! 
+
+Command: 
